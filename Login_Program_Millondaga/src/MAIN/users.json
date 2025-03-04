@@ -1,0 +1,23 @@
+{
+    "users": [{
+            "password": "user12234",
+            "type": "member",
+            "username": "user1234"
+        }, {
+            "password": "123",
+            "type": "member",
+            "username": "123"
+        }, {
+            "password": "123",
+            "type": "admin",
+            "username": "1234"
+        }, {
+            "password": "junior",
+            "type": "admin",
+            "username": "hex"
+        }, {
+            "password": "junior ",
+            "type": "admin",
+            "username": "hex"
+        }]
+}
